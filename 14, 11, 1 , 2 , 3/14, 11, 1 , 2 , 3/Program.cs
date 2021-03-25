@@ -21,12 +21,12 @@ namespace _14__11__1___2___3
                 }
                 Console.WriteLine();
             }
-            int result = SummDioganale(arrayWithNumber);
+            int result = CalculatingTheDioganale(arrayWithNumber);
             Console.WriteLine(result);
             Console.ReadKey();
         }
 
-        public static int SummDioganale(int[,] arrayWithNumber)
+        public static int CalculatingTheDioganale(int[,] arrayWithNumber)
         {
             int result = 0;
             for (int i = 0; i < arrayWithNumber.GetLength(0); i++)

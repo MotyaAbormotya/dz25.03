@@ -13,7 +13,7 @@ namespace _2
             string text = Console.ReadLine();
             int[] position = new int[text.Length];
             int quantity = 0;
-            SummDioganale(text, ref position, ref quantity);
+            CalculatingTheQuantityUpperLetters(text, ref position, ref quantity);
             Console.WriteLine(quantity);
             for (int i = 0; i < position.Length; i++)
             {
@@ -23,7 +23,7 @@ namespace _2
             Console.ReadKey();
         }
 
-        public static void SummDioganale(string text, ref int[] position, ref int quantity)
+        public static void CalculatingTheQuantityUpperLetters(string text, ref int[] position, ref int quantity)
         {
             int positionInArray = 0;
             for (int i = 0; i < text.Length; i++)
