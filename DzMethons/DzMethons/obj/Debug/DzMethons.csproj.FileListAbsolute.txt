@@ -1,0 +1,7 @@
+C:\Users\pchel\source\repos\DzMethons\DzMethons\bin\Debug\DzMethons.exe.config
+C:\Users\pchel\source\repos\DzMethons\DzMethons\bin\Debug\DzMethons.exe
+C:\Users\pchel\source\repos\DzMethons\DzMethons\bin\Debug\DzMethons.pdb
+C:\Users\pchel\source\repos\DzMethons\DzMethons\obj\Debug\DzMethons.csprojAssemblyReference.cache
+C:\Users\pchel\source\repos\DzMethons\DzMethons\obj\Debug\DzMethons.csproj.CoreCompileInputs.cache
+C:\Users\pchel\source\repos\DzMethons\DzMethons\obj\Debug\DzMethons.exe
+C:\Users\pchel\source\repos\DzMethons\DzMethons\obj\Debug\DzMethons.pdb

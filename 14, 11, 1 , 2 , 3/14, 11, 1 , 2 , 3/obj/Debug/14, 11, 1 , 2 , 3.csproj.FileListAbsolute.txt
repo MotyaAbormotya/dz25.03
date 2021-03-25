@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\14, 11, 1 , 2 , 3\14, 11, 1 , 2 , 3\obj\Debug\14, 11, 1 , 2 , 3.csprojAssemblyReference.cache
+C:\Users\User\source\repos\14, 11, 1 , 2 , 3\14, 11, 1 , 2 , 3\obj\Debug\14, 11, 1 , 2 , 3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\14, 11, 1 , 2 , 3\14, 11, 1 , 2 , 3\bin\Debug\14, 11, 1 , 2 , 3.exe.config
+C:\Users\User\source\repos\14, 11, 1 , 2 , 3\14, 11, 1 , 2 , 3\bin\Debug\14, 11, 1 , 2 , 3.exe
+C:\Users\User\source\repos\14, 11, 1 , 2 , 3\14, 11, 1 , 2 , 3\bin\Debug\14, 11, 1 , 2 , 3.pdb
+C:\Users\User\source\repos\14, 11, 1 , 2 , 3\14, 11, 1 , 2 , 3\obj\Debug\14, 11, 1 , 2 , 3.exe
+C:\Users\User\source\repos\14, 11, 1 , 2 , 3\14, 11, 1 , 2 , 3\obj\Debug\14, 11, 1 , 2 , 3.pdb
